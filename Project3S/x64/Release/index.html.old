@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka&family=Ramaraja&display=swap" rel="stylesheet">
+    <title>Homework</title>
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="header_inner">
+                <div class="header_logo">Pfpfpfpfal</div>
+                <nav class="nav"> <a class="nav_link" href="#">About</a>
+                <a class="nav_link" href="index2.html">Work</a> <a class="nav_link" href="https://github.com/">Blog</a> <a class="nav_link" href="https://vk.com/id671229280">Contact</a> </nav>
+            </div>
+        </div>
+    </header>
+    <div class="intro">
+        <div class="container">
+            <div class="intro_inner">
+                <h1 class="intro_title">H0m3w0rk</h1>
+                <a class="btn" href="index2.html">Learn More</a>
+                </div>
+        </div>
+    </div>
+
+<section class="section">
+    <div class="container">
+        <div class="section_header">
+            <h3 class="section_suptitle">What we do</h3>
+            <h2 class="section_title">Story about us</h2>
+            <div class="section_text"><p>Text Text  Text </p></div>
+            <div class=""><!--#stack#--></div>
+            <div class=""><!--#queue#--></div>
+            <div class=""><!--#SingleLinkedList#--></div>
+            <div><!--#LinkedList#--></div>
+        </div>
+    </div>
+</section>
+</body>
+
+</html>
